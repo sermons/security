@@ -1,11 +1,12 @@
 # Life Security
 ## Luke 12:22-34
 
-[![Build status](https://api.travis-ci.org/sermons/security.svg)](https://travis-ci.org/github/sermons/security)
-[![Node deps](https://david-dm.org/sermons/security.svg)](https://david-dm.org/sermons/security)
-[![Node devDeps](https://david-dm.org/sermons/security/dev-status.svg)](https://david-dm.org/sermons/security?type=dev)
+[![Build status](https://github.com/sermons/security/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/security/actions/workflows/build.yml)
+![Dependency check](https://img.shields.io/librariesio/github/sermons/security)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
 See [INSTALL.md](INSTALL.md)
 for how to make your own presentation.
+
+Test locally with `grunt connect:serve:keepalive`
